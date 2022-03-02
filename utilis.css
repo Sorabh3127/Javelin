@@ -1,0 +1,71 @@
+.my-1{
+    border-radius: 135px;
+    height: 206px;
+    width: 207px;
+}
+
+.my-2{
+    border-radius: 10px;
+}
+
+.my-3{
+    margin: 5px 0px;
+}
+
+.my-4{
+    margin: 26px 0px;
+    font-size: 30px;
+}
+.my-5{
+    font-size: 16px;
+    margin-top: 20px;
+}
+.my-6{
+    height: 280px;
+    width: 193px;
+}
+.my-7{
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    margin: 7px 548px 0 548px;
+}
+
+.my-8{
+    width: 248px;
+    height: 389px;
+    border-radius: 12px
+}
+.my-9{
+    width: 248px;
+    height: 389px;
+    border-radius: 12px;
+}
+.my-10{
+    margin-left: 522px;
+    border: none;
+    background-color: white;
+    font-size: 15px;
+}
+.text-center{
+    text-align: center;
+}
+
+.icons a {
+    color: white;
+    margin: 0 5px;
+}
+.search{
+    border-radius: 27px;
+    font-size: 12px;
+    padding-left: 21px;
+}
+.persons-1{
+    margin: 30px 50px 0 350px;
+}
+
+@media only screen and (max-width: 500px){
+    .persons-1{
+        margin: 30px 50px 0 -1px;
+    }
+}
